@@ -1,0 +1,160 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #E16A54;
+     font-family: Arial, sans-serif;
+    color: white;
+    padding: 50px;
+    }
+    
+/* 
+div{
+    height: 50px;
+    background-color: black;
+   
+    
+} */
+ .firstdiv{
+    height: 50px;
+    background-color: black;
+ }
+
+nav{
+    margin: 20px;
+    text-align: left;
+    margin:  10px; 
+    padding: 15px; 
+    font-weight: bold;
+
+     
+}
+.student{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.About{
+    color: orange;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+
+    
+.payu{
+    height: 50px;
+    background-color: black;
+    margin-top: 20px;
+}
+
+.abbu{
+    margin-top: 20px;
+}
+.rose{
+    margin:20px;
+    text-align: center;
+    margin:  10px; 
+    padding: 15px; 
+    font-weight: bold; 
+}
+
+.secondnav{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.More{
+    color: orange;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+.navthird{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.project{
+    color: orange;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+.html{
+    height: 300px;
+    width: 400px;
+    background-color:orange;
+    margin-top: 210px;
+    margin-left: 0px;
+    background-image: url("./image.jpg");
+    background-size: cover;
+ 
+
+  
+}
+
+
+   
+.img{
+    display: flex;
+    
+}
+
+
+
+
+
+.abbu{
+    height: 50px;
+    background-color: black;
+}
+
+
+
+.lily{
+    margin: 20px;
+    text-align: right;
+    margin:  10px; 
+    padding: 15px; 
+    font-weight: bold; 
+}
+
+h1{
+    color: white;
+    text-align: justify;
+    font-family: Type Something To Start;
+    font-size: 90px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
